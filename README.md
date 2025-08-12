@@ -1,2 +1,3 @@
-# modeling_git
+# modeling_public
+# contains modeling projects codes
 
